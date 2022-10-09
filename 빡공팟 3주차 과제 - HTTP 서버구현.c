@@ -1,4 +1,6 @@
-﻿#define _CRT_SECURE_NO_WARNINGS
+#빡공팟 #TeamH4C #P4C #세번째과제
+
+#define _CRT_SECURE_NO_WARNINGS
 #include <windows.h>
 #include <stdio.h>
 #include <conio.h>
